@@ -1,1 +1,6 @@
-# ReactChessTypescript
+```
+npm install
+npm start
+```
+
+
